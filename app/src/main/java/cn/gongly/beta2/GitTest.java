@@ -5,4 +5,5 @@ package cn.gongly.beta2;
  */
 
 public class GitTest {
+    private String a;
 }
